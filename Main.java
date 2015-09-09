@@ -7,9 +7,7 @@ import java.math.BigInteger;
 /**
  * Created by Delta on 01.08.2015.
  */
-//some comment
-//some comment 2
-    //some comment 3
+//adsfhjfrwwgihrihgr
 public class Main {
    static long d, x, y,q, r, x1, x2, y1, y2;
 
